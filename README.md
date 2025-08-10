@@ -3,14 +3,14 @@
 <h1 align="center">¡Hola, soy Juan Manuel González! 👋</h1>
 
 <p align="center">
-Estudiante de Ingeniería de Software y apasionado por el desarrollo web y la programación.
+Estudiante de Ingeniería de Software y apasionado por el desarrollo ingenieria cloud y la programación.
 </p>
 
 ---
 
 ### ✨ Sobre mí
 - 🎓 Actualmente estudio **Ingeniería de Software** en el Tecnológico de Antioquia.
-- 🌱 Me encanta aprender nuevas tecnologías y mejorar mis habilidades en **JavaScript**, **Python** y el **desarrollo web**.
+- 🌱 Me encanta aprender nuevas tecnologías y mejorar mis habilidades en **JavaScript**, **Python** y el **Servicios Cloud**.
 - 💡 Estoy interesado en proyectos de **desarrollo front‑end** y **back‑end**.
 - 🌍 Vivo en **Medellín, Colombia** y disfruto colaborando con la comunidad tecnológica local.
 - 🎮 En mi tiempo libre, me gusta explorar nuevas ideas, participar en hackatones y contribuir a proyectos de código abierto.
