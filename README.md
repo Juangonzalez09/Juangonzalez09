@@ -33,3 +33,10 @@ Estudiante de Ingeniería de Software y apasionado por el desarrollo web, la pro
 ### 📫 Contacto
 - 📧 Correo: [Email de contacto](mailto:correo@example.com)
 - 💼 LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
+
+## Stats
+
+[<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
+[<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
