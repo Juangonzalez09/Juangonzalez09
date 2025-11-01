@@ -31,8 +31,8 @@ Estudiante de Ingeniería de Software y apasionado por el desarrollo web, la pro
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juangonzalez09&layout=compact&theme=radical)
 
 ### 📫 Contacto
-- 📧 Correo: [Email de contacto](mailto:correo@example.com)
-- 💼 LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
+- 📧 Correo: [Email de contacto](mailto:gonzalezjuanm58@gmail.com)
+- 💼 LinkedIn: [Perfil de LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/juan-manuel-gonzalez-2940b4199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 ## Stats
 
