@@ -29,8 +29,6 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
 - ⚡ Experiencia en automatizaciones con APIs REST y Infrastructura en la nuve.
 - 💡 Abierto a colaboraciones en proyectos web y cloud
 
----
-
 ## 🧠 Tecnologías que uso
 
 ### **Backend**
@@ -60,13 +58,8 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
   <img height="48" src="https://cdn.svgporn.com/logos/aws-s3.svg" alt="Amazon S3"/>
 </p>
 
+# 📈 Estadisticas
 
-
----
-
-# 📈 Stats
-
-## 🕒 Wakatime
 [<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
 [<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
