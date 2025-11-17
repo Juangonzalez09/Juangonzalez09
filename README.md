@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Computing-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-n8n-6ECF3D?style=for-the-badge&logo=n8n&logoColor=white"/>
+  [<img src="https://img.shields.io/badge/Automation-n8n-6ECF3D?style=for-the-badge&logo=n8n&logoColor=white"/>](https://img.shields.io/badge/Software%20Engineer-6C63FF?style=for-the-          badge&logo=neuralink&logoColor=white)
 </p>
 
 ---
