@@ -51,14 +51,15 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
 ### **ETL & Data Processing**
 <p>
   <!-- AWS Glue -->
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aws.svg" title="AWS Glue" />
+  <img height="48" src="https://cdn.svgporn.com/logos/aws-glue.svg" alt="AWS Glue"/>
 
   <!-- AWS Lambda -->
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awslambda.svg" title="AWS Lambda" />
+  <img height="48" src="https://cdn.svgporn.com/logos/aws-lambda.svg" alt="AWS Lambda"/>
 
   <!-- Amazon S3 -->
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazons3.svg" title="Amazon S3" />
+  <img height="48" src="https://cdn.svgporn.com/logos/aws-s3.svg" alt="Amazon S3"/>
 </p>
+
 
 
 ---
