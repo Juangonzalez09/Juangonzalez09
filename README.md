@@ -1,5 +1,5 @@
-<h1 align="center">👋 ¡Hola! Soy Juan Manuel González</h1>
-<h3 align="center">Ingeniero de Software | Cloud & Backend Developer | Apasionado por la automatización</h3>
+<h1 align="center"> ¡Hola! Soy Juan Manuel González</h1>
+<h3 align="center">Ingeniero de Software | Cloud & Backend Developer | Data Engineer </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
@@ -14,8 +14,8 @@ Soy estudiante de Ingeniería de Software con fuerte interés en el desarrollo b
 Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que integren **Python, AWS, bases de datos y arquitectura de software moderna**.
 
 - 🌍 Medellín, Colombia  
-- ☁ Enfocado en **Cloud (AWS)** y **Backend (Python, Django, Flask)**  
-- ⚡ Experiencia en automatizaciones con **n8n**, APIs REST y despliegues  
+- ☁  **Cloud (AWS)** - **Backend (Python, Django, Flask)** - **Data Engineer(Python, Spark, Glue)** 
+- ⚡ Experiencia en automatizaciones con APIs REST y Infrastructura en la nuve.
 - 💡 Abierto a colaboraciones en proyectos web y cloud
 
 ---
@@ -55,17 +55,10 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
 # 📈 Stats
 
 ## 🕒 Wakatime
-<a href="#"><img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=tu_usuario&layout=compact&theme=radical"/></a>
-
-## 📊 GitHub Metrics
-![Metrics](https://raw.githubusercontent.com/juangonzalez09/juangonzalez09/main/github-metrics.svg)
-
-> (Si quieres, te enseño cómo activar **GitHub Metrics**, queda increíble.)
+[<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
+[<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
 
 ## 📉 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juangonzalez09&theme=radical)
-
-## 🧊 Otros Metrics opcionales (muy profesionales)
-Puedes agregar cualquiera de estos:
-
-### 🔹 Isometric Commit Calendar
