@@ -48,18 +48,18 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git,linux" />
 </p>
 
-### 🛠️ ETL & Data Processing
+### **ETL & Data Processing**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=light" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+  <!-- AWS Glue -->
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aws.svg" title="AWS Glue" />
+
+  <!-- AWS Lambda -->
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awslambda.svg" title="AWS Lambda" />
+
+  <!-- Amazon S3 -->
+  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazons3.svg" title="Amazon S3" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Glue-5A2E8A?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+
 
 ---
 
