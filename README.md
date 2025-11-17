@@ -12,11 +12,11 @@
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-  <!-- Automation con icono -->
+
   <img src="https://img.shields.io/badge/Automation-444?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-  <!-- n8n -->
-  <img src="https://img.shields.io/badge/n8n-6ECF3D?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/AWS%20Glue-5A2E8A?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
