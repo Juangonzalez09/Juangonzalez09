@@ -2,9 +2,22 @@
 <h3 align="center">Ingeniero de Software | Cloud & Backend Developer | Data Engineer </h3>
 
 <p align="center">
+
+  <!-- Software Engineer -->
   <img src="https://img.shields.io/badge/Software%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-n8n-6ECF3D?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+  <!-- Cloud Computing con icono de nube -->
+  <img src="https://img.shields.io/badge/Cloud%20Computing-555?style=for-the-badge&logo=icloud&logoColor=white"/>
+
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <!-- Automation con icono -->
+  <img src="https://img.shields.io/badge/Automation-444?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+  <!-- n8n -->
+  <img src="https://img.shields.io/badge/n8n-6ECF3D?style=for-the-badge&logo=n8n&logoColor=white"/>
+
 </p>
 
 
