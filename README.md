@@ -1,42 +1,71 @@
-<!-- Profile README for Juangonzalez09 -->
-
-<h1 align="center">¡Hola, soy Juan Manuel González! 🌟</h1>
+<h1 align="center">👋 ¡Hola! Soy Juan Manuel González</h1>
+<h3 align="center">Ingeniero de Software | Cloud & Backend Developer | Apasionado por la automatización</h3>
 
 <p align="center">
-Estudiante de Ingeniería de Software y apasionado por el desarrollo web, la programación y la ingeniería cloud.
+  <img src="https://img.shields.io/badge/Software%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-n8n-6ECF3D?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 ---
 
-### ✨ Sobre mí
-- 🎓 Actualmente estudio **Ingeniería de Software** en el Tecnológico de Antioquia.
-- 📚 Me encanta aprender nuevas tecnologías y mejorar mis habilidades en **JavaScript**, **Python** y el **desarrollo web**.
-- 🛰️ Me interesa la **ingeniería cloud** y la arquitectura de sistemas informáticos.
-- 🚀 Estoy interesado en proyectos de **desarrollo front-end** y **back-end**.
-- 🏠 Vivo en **Medellín, Colombia** y disfruto colaborando con la comunidad tecnológica local.
-- 💡 En mi tiempo libre, me gusta explorar nuevas ideas, participar en hackathones y contribuir a proyectos de código abierto.
+## 🚀 Sobre mí
+Soy estudiante de Ingeniería de Software con fuerte interés en el desarrollo backend, cloud computing y automatización de procesos.  
+Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que integren **Python, AWS, bases de datos y arquitectura de software moderna**.
 
-### 🛠️ Tecnologías y herramientas
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-e5ba45?style=for-the-badge&logo=javascript&logoColor=black)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS ☁️ Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n Badge](https://img.shields.io/badge/n8n-6ECF3D?style=for-the-badge&logo=n8n&logoColor=white)
+- 🌍 Medellín, Colombia  
+- ☁ Enfocado en **Cloud (AWS)** y **Backend (Python, Django, Flask)**  
+- ⚡ Experiencia en automatizaciones con **n8n**, APIs REST y despliegues  
+- 💡 Abierto a colaboraciones en proyectos web y cloud
 
-### 📊 GitHub Stats
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juangonzalez09&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juangonzalez09&layout=compact&theme=radical)
+---
 
-### 📫 Contacto
-- 📧 Correo: [Email de contacto](mailto:gonzalezjuanm58@gmail.com)
-- 💼 LinkedIn: [Perfil de LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/juan-manuel-gonzalez-2940b4199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+## 🧠 Tecnologías que uso
 
-## Stats
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,fastapi" />
+</p>
 
-[<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
-[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
-[<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
-[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,angular,tailwind" />
+</p>
+
+### **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git,linux" />
+</p>
+
+### **Bases de datos**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+</p>
+
+---
+
+## 📌 Proyectos destacados
+- 🔹 **Automatización con n8n + APIs externas**
+- 🔹 **Sistema de autenticación con Flask + AWS Cognito**
+- 🔹 **Panel administrativo en React / Angular**
+- 🔹 **Procesamiento de datos y scripts en Python**
+
+---
+
+# 📈 Stats
+
+## 🕒 Wakatime
+<a href="#"><img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=tu_usuario&layout=compact&theme=radical"/></a>
+
+## 📊 GitHub Metrics
+![Metrics](https://raw.githubusercontent.com/juangonzalez09/juangonzalez09/main/github-metrics.svg)
+
+> (Si quieres, te enseño cómo activar **GitHub Metrics**, queda increíble.)
+
+## 📉 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juangonzalez09&theme=radical)
+
+## 🧊 Otros Metrics opcionales (muy profesionales)
+Puedes agregar cualquiera de estos:
+
+### 🔹 Isometric Commit Calendar
