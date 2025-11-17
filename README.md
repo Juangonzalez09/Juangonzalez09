@@ -65,18 +65,3 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
 [<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
 
-<p align="center">
-  <img width="390" src="/metrics.plugin.wakatime.svg" alt="Wakatime">
-  <img width="390" src="/metrics.plugin.habits.svg" alt="Coding Habits">
-</p>
-
-<p align="center">
-  <img width="390" src="/metrics.plugin.achievements.svg" alt="Achievements">
-  <img width="390" src="/metrics.plugin.skills.svg" alt="Skills">
-</p>
-
-<p align="center">
-  <img width="390" src="/metrics.plugin.code.svg" alt="Code Lines">
-  <img width="390" src="/metrics.plugin.isocalendar.fullyear.svg" alt="ISO Calendar Full Year">
-</p>
-
