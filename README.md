@@ -60,5 +60,3 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
 [<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
 
-## 📉 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juangonzalez09&theme=radical)
