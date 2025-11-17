@@ -48,18 +48,18 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git,linux" />
 </p>
 
-### **Bases de datos**
+### 🛠️ ETL & Data Processing
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
 </p>
-
----
-
-## 📌 Proyectos destacados
-- 🔹 **Automatización con n8n + APIs externas**
-- 🔹 **Sistema de autenticación con Flask + AWS Cognito**
-- 🔹 **Panel administrativo en React / Angular**
-- 🔹 **Procesamiento de datos y scripts en Python**
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Glue-5A2E8A?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
