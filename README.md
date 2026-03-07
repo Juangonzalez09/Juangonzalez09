@@ -21,7 +21,7 @@
 </p>
 
 ---
-Soy estudiante del ultimo semestre de Ingeniería de Software con fuerte interés en el desarrollo backend, cloud computing y automatización de procesos.  
+Ingeniero de Software con fuerte interés en el desarrollo backend, cloud computing y automatización de procesos.  
 Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que integren **Python, AWS, bases de datos y arquitectura de software moderna**.
 
 - 🌍 Medellín, Colombia  
