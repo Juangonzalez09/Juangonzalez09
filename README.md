@@ -1,32 +1,29 @@
-<h1 align="center"> ¡Hola! Soy Juan Manuel González</h1>
-<h3 align="center">Ingeniero de Software | Cloud & Backend Developer | Data Engineer </h3>
+<!-- ============================================================= -->
+<!--        INTRO ANIMADA — MacBook con terminal (SVG propio)      -->
+<!-- ============================================================= -->
+<div align="center">
+  <img src="/mac-intro.svg" width="640" alt="Juan Manuel González — Cloud & Backend Developer · Data Engineer" />
+</div>
 
-<p align="center">
-
-  <!-- Software Engineer -->
-  <img src="https://img.shields.io/badge/Software%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-  <!-- Cloud Computing con icono de nube -->
-  <img src="https://img.shields.io/badge/Cloud%20Computing-555?style=for-the-badge&logo=icloud&logoColor=white"/>
-
-  <!-- AWS -->
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-
-  <img src="https://img.shields.io/badge/Automation-444?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-
-  <img src="https://img.shields.io/badge/AWS%20Glue-5A2E8A?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
+<!-- ============================================================= -->
+<!--                 BOTÓN LANDING PAGE + VISTAS                   -->
+<!-- ============================================================= -->
+<div align="center">
+  <a href="https://www.juanmanueldev.website" target="_blank">
+    <img src="https://img.shields.io/badge/Visita%20mi%20Portafolio-juanmanueldev.website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e" alt="Portafolio" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Juangonzalez09&label=Vistas%20al%20perfil&color=4285F4&style=for-the-badge" alt="Vistas al perfil" />
+</div>
 
 ---
-Ingeniero de Software con fuerte interés en el desarrollo backend, cloud computing y automatización de procesos.  
+
+Ingeniero de Software con conocimientos en el ciclo de vida del software, cloud computing y automatización de procesos.  
 Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que integren **Python, AWS, bases de datos y arquitectura de software moderna**.
 
 - 🌍 Medellín, Colombia  
-- ☁  **Cloud (AWS)** - **Backend (Python, Django, Flask)** - **Data Engineer(Python, Spark, Glue)** 
-- ⚡ Experiencia en automatizaciones con APIs REST y Infrastructura en la nuve.
+- ☁  **Cloud (AWS)** - **Backend (Python, Django, Flask)** - **Data Engineer (Python, Spark, Glue)**
+- ⚡ Experiencia en automatizaciones con APIs REST e infraestructura en la nube.
 - 💡 Abierto a colaboraciones en proyectos web y cloud
 
 ## 🧠 Tecnologías que uso
@@ -65,3 +62,4 @@ Me encanta aprender, crear soluciones eficientes y desarrollar proyectos que int
 [<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
 
+<br clear="both"/>
