@@ -2,7 +2,7 @@
 <!--        INTRO ANIMADA — MacBook con terminal (SVG propio)      -->
 <!-- ============================================================= -->
 <div align="center">
-  <img src="/mac-intro.svg" width="640" alt="Juan Manuel González — Cloud & Backend Developer · Data Engineer" />
+  <img src="/mac-intro.svg" width="640" alt="Juan Manuel González — Cloud Developer · Data Engineer" />
 </div>
 
 <!-- ============================================================= -->
